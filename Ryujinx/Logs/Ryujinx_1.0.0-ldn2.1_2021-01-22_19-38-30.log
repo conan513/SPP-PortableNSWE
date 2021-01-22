@@ -1,6 +1,0 @@
-00:00:00.138 |N| Application PrintSystemInfo: Ryujinx Version: 1.0.0-ldn2.1
-00:00:01.240 |N| Application PrintSystemInfo: Operating System: Microsoft Windows 10.0.19042 (X64)
-00:00:01.240 |N| Application PrintSystemInfo: CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
-00:00:01.241 |N| Application PrintSystemInfo: Total RAM: 16339 MB
-00:00:01.243 |N| Application PrintSystemInfo: Logs Enabled: Info, Warning, Error, Guest, Stub
-00:00:01.243 |N| Application PrintSystemInfo: Custom Data Directory: e:\SPP-NSwitch\Ryujinx\data
