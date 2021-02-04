@@ -1,2 +1,2 @@
 @echo off
-ryujinx.exe -r "%CD%\data"
+start "" ryujinx.exe -r "%CD%\data"
